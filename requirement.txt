@@ -1,0 +1,8 @@
+langchain
+langchain-groq
+langgraph
+pydantic
+streamlit
+psycopg[binary]
+python-dotenv
+langchain_tavily
